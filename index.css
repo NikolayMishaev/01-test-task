@@ -211,6 +211,7 @@
 @media screen and (max-width: 768px) {
   .menu_place_header {
     margin-left: 50px;
+    box-sizing: border-box;
   }
 }
 
@@ -260,20 +261,24 @@
     position: absolute;
   }
   .menu__profile:before {
-    width: 5px;
-    height: 5px;
+    width: 10px;
+    height: 10px;
     top: 5px;
-    left: 8px;
+    left: 50%;
     border: 2px solid #34aadd;
     border-radius: 100%;
+    transform: translateX(-50%);
+    box-sizing: border-box;
   }
   .menu__profile:after {
-    width: 12px;
-    height: 12px;
-    top: 15px;
-    left: 4px;
+    width: 16px;
+    height: 16px;
+    top: 16px;
+    left: 50%;
     border: 2px solid #34aadd;
     border-radius: 100%;
+    transform: translateX(-50%);
+    box-sizing: border-box;
   }
 }
 
@@ -294,6 +299,8 @@
 @media screen and (max-width: 768px) {
   .menu__profile-name {
     padding-left: 3px;
+    padding-top: 0;
+    margin: 0 9px 0 15px;
   }
 }
 
@@ -317,13 +324,32 @@
   }
 }
 
+.content {
+  max-width: 1440px;
+  padding: 0 135px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1440px) {
+  .content {
+    padding: 0 calc(50% / 3 - 105px);
+    box-sizing: unset;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content {
+    padding: 0 20px;
+  }
+}
+
 .partners {
-  padding: 70px calc(50% / 3 - 105px);
+  padding: 70px 0;
 }
 
 @media screen and (max-width: 768px) {
   .partners {
-    padding: 70px 20px;
+    padding: 70px 0;
   }
 }
 
