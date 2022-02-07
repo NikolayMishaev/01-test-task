@@ -1,13 +1,10 @@
 # тестовое задание от QSOFT
 ***
 
-- [ссылка на страницу](https://)
+- [ссылка на gh pages](https://nikolaymishaev.github.io/test_QSOFT/)
 
 ## Описание
 - страница с версткой по тестовому макету
-
-## Скриншот
-![главная страница](https://github.com/NikolayMishaev/test_QSOFT/raw/main/images/readme/main.jpg)
 
 ## Функциональность
 - по условию можно использовать только flexbox для построения сетки;
