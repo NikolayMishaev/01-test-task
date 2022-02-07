@@ -1,4 +1,4 @@
-# тестовое задание от QSOFT
+# Адаптивная верстка по макету
 ***
 
 - [ссылка на gh pages](https://nikolaymishaev.github.io/test_QSOFT/)
