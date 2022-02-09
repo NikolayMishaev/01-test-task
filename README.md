@@ -1,7 +1,7 @@
 # Адаптивная верстка по макету
 ***
 
-- [ссылка на gh pages](https://nikolaymishaev.github.io/test-task/)
+- [ссылка на gh-pages](https://nikolaymishaev.github.io/test-task/)
 - [ссылка на задание](https://disk.yandex.ru/i/kIWq4qsEPwyswA)
 - [ссылка на макет](https://www.figma.com/file/uy85DPXU715pD16KkshYUZ/QSOFT.-Frontend-Junior-Test-Task?node-id=1642%3A866)
 
