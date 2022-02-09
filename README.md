@@ -2,8 +2,8 @@
 ***
 
 - [ссылка на gh pages](https://nikolaymishaev.github.io/test-task/)
-- [ссылка на задание](https://disk.yandex.ru/i/C3VxkRdRRV_35A)
-- [ссылка на макет](https://www.figma.com/file/uy85DPXU715pD16KkshYUZ/QSOFT.-Front-end-Junior-Test-Task?node-id=1642%3A866)
+- [ссылка на задание](https://disk.yandex.ru/i/kIWq4qsEPwyswA)
+- [ссылка на макет](https://www.figma.com/file/uy85DPXU715pD16KkshYUZ/QSOFT.-Frontend-Junior-Test-Task?node-id=1642%3A866)
 
 ## Описание
 - страница с версткой по тестовому макету
