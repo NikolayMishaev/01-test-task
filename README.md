@@ -2,6 +2,7 @@
 ***
 
 - [ссылка на gh pages](https://nikolaymishaev.github.io/test_QSOFT/)
+- [ссылка на задание](https://disk.yandex.ru/i/C3VxkRdRRV_35A)
 
 ## Описание
 - страница с версткой по тестовому макету
