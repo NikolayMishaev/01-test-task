@@ -1,4 +1,4 @@
-# Выполнение ТЗ по адаптивной верстке
+# Адаптивная верстка страницы
 ***
 
 - [gh-pages](https://nikolaymishaev.github.io/flex-adaptive-page)
