@@ -1,7 +1,7 @@
 # Выполнение ТЗ по адаптивной верстке
 ***
 
-- [gh-pages](https://nikolaymishaev.github.io/01-test-task/)
+- [gh-pages](https://nikolaymishaev.github.io/flex-adaptive-page)
 - [задание](https://disk.yandex.ru/i/kIWq4qsEPwyswA)
 - [макет](https://www.figma.com/file/uy85DPXU715pD16KkshYUZ/QSOFT.-Frontend-Junior-Test-Task?node-id=1642%3A866)
 
