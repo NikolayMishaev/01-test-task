@@ -11,6 +11,10 @@
 ## Скриншоты
 ![общий вид приложения](https://github.com/NikolayMishaev/flex-adaptive-page/raw/main/images/readme/main.jpg)
 
+## Технологии
+- HTML
+- CSS(flexbox)
+
 ## Функциональность
 - по условию можно использовать только flexbox для построения сетки
 - используются псевдоселекторы :nth-child и функция calc()
